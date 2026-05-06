@@ -1,0 +1,2 @@
+info: user login success
+warning: disk space low

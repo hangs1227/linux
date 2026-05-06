@@ -1,0 +1,8 @@
+ERROR: database connection failed
+info: user login success
+warning: disk space low
+
+ERROR: database connection failed
+info: user login success
+warning: disk space low
+
